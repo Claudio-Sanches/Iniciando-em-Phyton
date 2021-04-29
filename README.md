@@ -6,5 +6,5 @@ Códigos desenvolvidos em Phyton durante capacitação
 4. Acumula em uma matriz o cadastro de funcionários, listando os dados acumulados
 4.1 Acumula em uma matriz o cadastro de funcionários, listando os dados acumulados e realizando estatística das informações
 4.2 Acumula em uma matriz o nome e a idade de 5 funcionários e possibilita impressão, localização e localização e exclusão
-7. Método RadixSort, executado com vetor pré-definido de 15 posições ou vetor gerado randomicamente, também de 15 posições. É demonstrado o método de classificação em suas unidades - Unidade, Dezena, Centena e Milhar, combinado matriz e vetor de controle na ordem crescente e decrescente  
+ 7. Método RadixSort, executado com vetor pré-definido de 15 posições ou vetor gerado randomicamente, também de 15 posições. É demonstrado o método de classificação em suas unidades - Unidade, Dezena, Centena e Milhar, combinado matriz e vetor de controle na ordem crescente e decrescente  
 
